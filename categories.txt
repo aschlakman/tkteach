@@ -1,4 +1,11 @@
-(X) Nothing
-(C) Vehicle
-(D) Truck
+(0) Not racist at all
+(1) May or may not be racist
+(2) Probably a little bit racist
+(3) A little racist
+(4) A little more racist
+(5) Mildly racist
+(6) Pretty racist
+(7) Racist
+(8) Very racist
+(9) Extremely racist
 (F) Flag
